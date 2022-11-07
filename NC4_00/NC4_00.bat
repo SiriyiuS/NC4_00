@@ -1,0 +1,1 @@
+start "" "C:\Program Files\DOSBox-0.74-3\DOSBox.exe" -conf "D:\NC4_00\NC4_00.conf" -noconsole

@@ -1,0 +1,12 @@
+arj:	c:\arhiv\arj x -y -v ! d:
+bas:	c:\tb\tb !
+doc:	c:\edit\q !.!
+gif:	vpic !.! /a
+ice:	c:\arhiv\lha e /axrmn !.! d:
+lbm:	vpic !.! /a
+lzh:	c:\arhiv\lha e /axrmn ! d:
+pcx:	vpic !.! /a
+stm:	c:\sbpro\stmod ! I
+txt:	c:\edit\q !.!
+zip:	c:\arhiv\pkunzip -d ! d:
+*:	rem inknew extention

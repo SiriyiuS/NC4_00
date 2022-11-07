@@ -1,0 +1,32 @@
+
+		THIS DISK CONTAINS THE FOLLOWING FILES:
+
+READ.ME         This file.
+AVMAC85.EXE     The Assembler, including Preprocessor.
+AVLINK.EXE      The Linker.
+AVLIB.EXE       The Librarian.
+AVREF.EXE       The Cross-referencer.
+HEXFORM.EXE     The Hex File Sorter.
+TEST85.ASM      The Test Source file.
+PSEUDOS.ASM     The Pseudos and Macro Examples Source file.
+
+
+	Type 
+		AVMAC85  TEST85 
+
+to try the assembler on our instruction set test file.  You might also 
+try AVMAC85 PSEUDOS to run the assembler on our pseudos, macros, and 
+preprocessor directives example file.
+
+
+	To try the linker after assembly, type
+
+		AVLINK FILEOUT=TEST85.obj
+
+This will result in a hex file, FILEOUT.hex where FILEOUT is any name
+that you wish the .hex file to have.
+
+	For further information on the AVMAC85 and AVLINK programs, 
+as well as on the usage of AVREF, AVLIB, and HEXFORM, please refer to
+the User's Manual.
+

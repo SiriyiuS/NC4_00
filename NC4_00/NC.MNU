@@ -1,0 +1,18 @@
+1: Disk Format Operations
+{
+1: Format 360 kBytes
+   c:\dos\fdformat a: t40 h2 n9
+2: Format 720 kBytes
+   c:\dos\fdformat a: t80 h2 n9
+3: Format 800 kBytes
+   c:\dos\fdformat a: t80 h2 n10
+}
+2: Hard Disk Operatitions
+{
+1: Norton Disk Doctor
+  c:\nu6\ndd c:/c
+2: Speed Disk
+  c:\nu6\speedisk
+3: Disk Editor
+  c:\nu6\diskedit
+}

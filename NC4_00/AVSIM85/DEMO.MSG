@@ -1,0 +1,7 @@
+This text is being loaded
+from an input text file
+via Port A of 8155. The routine which
+performs this function is
+interrupt-driven from Port C's
+A-strobe pin. A second input file
+is toggling this STB pin.
